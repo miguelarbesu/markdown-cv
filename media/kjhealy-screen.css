@@ -71,7 +71,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
@@ -174,7 +174,7 @@ a:hover {
 }
 
 em {
-	font-weight: bold;
+	font-weight: normal;
 	font-style: italic;
 }
 
