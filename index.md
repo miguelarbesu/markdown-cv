@@ -56,7 +56,9 @@ Isabella Felli.
  **B.Sc. and M.Sc. in Organic Chemistry**, University of Oviedo,
 Spain.
 
-The study plan for the *licenciatura* degree is previous to the Bologna process. It is since 2014 equivalent to **B.Sc. + M.Sc.** in the Qualifications Frameworks in the European Higher Education Area (QF-EHEA).
+The study plan for the *licenciatura* degree is previous to the Bologna
+process. It is since 2014 equivalent to **B.Sc. + M.Sc.** in the 
+Qualifications Frameworks in the European Higher Education Area (QF-EHEA).
 
 ## Awards
 
@@ -77,10 +79,10 @@ Conceded by the Specialized NMR group of the Royal Spanish Society of Chemistry
 proteins: Fuzzy sensors and the role of SH3 domains.* Archives of Biochemistry
 and Biophysics 677, 108161. https://doi.org/10.1016/j.abb.2019.108161
 
-Le Roux, A.-L., Mohammad, I.-L., Mateos, B., **Arbesú, M.**, Gaiŕi, M., Khan, F.A.,
-Teixeira, J.M.C., Pons, M., 2019. *A Myristoyl-Binding Site in the SH3 Domain
-Modulates c-Src Membrane Anchoring*. iScience 12, 194–203.
-https://doi.org/10.1016/j.isci.2019.01.010
+Le Roux, A.-L., Mohammad, I.-L., Mateos, B., **Arbesú, M.**, Gaiŕi, M., Khan, 
+F.A., Teixeira, J.M.C., Pons, M., 2019. *A Myristoyl-Binding Site in the SH3 
+Domain Modulates c-Src Membrane Anchoring*. iScience 12, 194–203. https://doi.
+org/10.1016/j.isci.2019.01.010
 
 `2018`
 
@@ -97,7 +99,8 @@ https://doi.org/10.1016/j.str.2017.02.011
 
 `2015`
 
-Maffei, M., **Arbesú, M.**, Le Roux, A.-L., Amata, I., Roche, S., Pons, M.,2015. *The SH3 Domain Acts as a Scaffold for the N-Terminal Intrinsically
+Maffei, M., **Arbesú, M.**, Le Roux, A.-L., Amata, I., Roche, S., Pons, M.,
+ 2015. *The SH3 Domain Acts as a Scaffold for the N-Terminal Intrinsically
 Disordered Regions of c-Src*. Structure 23, 893–902.
 https://doi.org/10.1016/j.str.2015.03.009
 
@@ -106,8 +109,9 @@ https://doi.org/10.1016/j.str.2015.03.009
 `2018`
 
 Teixeira, J.M.C., Skinner, S.P., **Arbesú, M.**, Breeze, A.L., Pons, M., 2018.
-*Farseer-NMR: automatic treatment, analysis and plotting of large, multi-variable
-NMR data*. J. Biomol. NMR 0, 0. https://doi.org/10.1007/s10858-018-0182-5,
+*Farseer-NMR: automatic treatment, analysis and plotting of large, 
+multi-variable NMR data*. J. Biomol. NMR 0, 0. 
+https://doi.org/10.1007/s10858-018-0182-5,
 
 Repository at https://github.com/Farseer-NMR/FarSeer-NMR
 
