@@ -79,7 +79,7 @@ Conceded by the Specialized NMR group of the Royal Spanish Society of Chemistry
 proteins: Fuzzy sensors and the role of SH3 domains.* Archives of Biochemistry
 and Biophysics 677, 108161. https://doi.org/10.1016/j.abb.2019.108161
 
-Le Roux, A.-L., Mohammad, I.-L., Mateos, B., **Arbesú, M.**, Gaiŕi, M., Khan, 
+Le Roux, A.-L., Mohammad, I.-L., Mateos, B., **Arbesú, M.**, Gairí, M., Khan, 
 F.A., Teixeira, J.M.C., Pons, M., 2019. *A Myristoyl-Binding Site in the SH3 
 Domain Modulates c-Src Membrane Anchoring*. iScience 12, 194–203. https://doi.
 org/10.1016/j.isci.2019.01.010
@@ -117,7 +117,8 @@ Repository at https://github.com/Farseer-NMR/FarSeer-NMR
 
 ### Protocols
 
-`2013` 
+`2013`
+
 Maffei, M., Perez, Y., Maffei, M., Amata, I., **Arbesú, M.**, Pons, M., 2013.
 *Lipid Binding by Disordered Proteins*. Protoc. Exch. 23, 2015–2016.
 https://doi.org/10.1038/protex.2013.094
