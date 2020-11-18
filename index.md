@@ -2,7 +2,9 @@
 layout: cv
 title: Miguel Arbesú | Curriculum vitae
 ---
+
 # Miguel Arbesú Andrés
+
 Postdoctoral researcher in Structural Biology.
 <div id="webaddress">
 <a href="arbesu@fmp-berlin.de">arbesu@fmp-berlin.de</a>
@@ -99,8 +101,7 @@ https://doi.org/10.1016/j.str.2017.02.011
 
 `2015`
 
-Maffei, M., **Arbesú, M.**, Le Roux, A.-L., Amata, I., Roche, S., Pons, M.,
- 2015. *The SH3 Domain Acts as a Scaffold for the N-Terminal Intrinsically
+Maffei, M., **Arbesú, M.**, Le Roux, A.-L., Amata, I., Roche, S., Pons, M., 2015. *The SH3 Domain Acts as a Scaffold for the N-Terminal Intrinsically
 Disordered Regions of c-Src*. Structure 23, 893–902.
 https://doi.org/10.1016/j.str.2015.03.009
 
